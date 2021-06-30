@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310348256356",
+    "firebase_url": "https://bilirkisiproje-default-rtdb.firebaseio.com",
+    "project_id": "bilirkisiproje",
+    "storage_bucket": "bilirkisiproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310348256356:android:e059f24ada576ac5b63b71",
+        "android_client_info": {
+          "package_name": "com.bilirkisi.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310348256356-vl0eesc66n29hqq1l1h84j60l7vlj11p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDw6M-UpgNs5CUOA4PAhHS86cSHRC3Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310348256356-vl0eesc66n29hqq1l1h84j60l7vlj11p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

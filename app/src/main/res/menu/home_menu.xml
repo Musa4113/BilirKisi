@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chatFragment"
+        android:icon="@drawable/chatsicon"
+        android:title="Mesajlaşma" />
+
+    <item
+        android:id="@+id/ARselfieFragment"
+        android:icon="@drawable/photoicon"
+        android:title="Photo" />
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/searchicon"
+        android:title="Arama" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profileicon"
+        android:title="Profil" />
+
+</menu>

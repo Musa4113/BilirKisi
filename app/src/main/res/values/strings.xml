@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">bilirkisi</string>
+    <string name="wrong_email_format">Yanlış Mail formatı</string>
+    <string name="password_size">Şifre En az 6 karakter Olmalı</string>
+    <string name="search">Arama</string>
+    <string name="about_me">Yetenekleriniz</string>
+    <string name="edit">Düzenleme</string>
+    <string name="friends">Arkadaşlar</string>
+    <string name="select_profile_picture">Resim seç</string>
+    <string name="take_new_profile_picture">Yeni fotoğraf çek</string>
+    <string name="uploading">Yükleniyor...</string>
+    <string name="type_something_to_let_your_friends_know_you_better">Yeteneklerinizi yazın</string>
+    <string name="submit">Güncelle</string>
+    <string name="cancel_request">isteği iptal et</string>
+    <string name="friend_request_not_sent">Arkadaşlık İsteği Gönder</string>
+    <string name="confirm">Onayla</string>
+    <string name="no_incoming_requests">gelen istek yok</string>
+    <string name="no_friends_yet">Henüz arkadaş yok</string>
+    <string name="find_friends">Kullanıcıları bul</string>
+    <string name="no_one_to_chat_with_yet_add_more_friend_to_get_going">Henüz sohbet geçmişi yok !! </string>
+    <string name="type_a_message">Bir mesaj yazın</string>
+    <string name="empty_message">Boş mesaj gönderilemez</string>
+
+
+    <string name="you">Sen: %1$s</string>
+    <string name="other">%1$s: %2$s</string>
+    <string name="other_image">%1$s bir resim gönderdi</string>
+    <string name="other_file">%1$s bir dosya gönderdi</string>
+    <string name="no_users_to_add_yet">Henüz eklenecek kullanıcı yok.</string>
+    <string name="you_sent_image">Bir resim gönderdin</string>
+    <string name="send_file">Dosya Gönder</string>
+    <string name="send_picture">Resmi yolla</string>
+    <string name="you_sent_file">bir dosya gönderdin</string>
+    <string name="you_sent_record">bir ses kaydı gönderdin</string>
+    <string name="other_record">%1$s bir ses kaydı gönderdi</string>
+    <string name="delete_from_friends">Arkadaşlardan çıkar</string>
+    <string name="no_friends">Kullanıcının henüz arkadaşı yok</string>
+    <string name="create_group">Grup oluştur</string>
+    <string name="join_group_using_key">Anahtar kullanarak Gruba Katıl</string>
+
+    <string name="S_Standart">Standart</string>
+    <string name="S_Uzman">Uzman</string>
+
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+<!--
+        <string name="first_slide_title">Konumunuzu Arayın</string>
+        <string name="second_slide_title">Arama yap</string>
+        <string name="third_slide_title">Eksik Yeri Ekle</string>
+        <string name="fourth_slide_title">iyi eğlenceler</string>
+-->
+        <!--Descriptions-->
+<!--
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by follwing simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then </string>
+-->
+
+    <!--Buttons-->
+<!--
+        <string name="skip_btn">Skip</string>
+        <string name="next_btn">Next</string>
+        <string name="let_get_started">Hadi Başlayalım</string>
+-->
+
+
+    </resources>
